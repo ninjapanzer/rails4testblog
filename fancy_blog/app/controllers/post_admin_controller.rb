@@ -1,0 +1,2 @@
+class PostAdminController < ApplicationController
+end
